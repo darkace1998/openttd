@@ -1,0 +1,24 @@
+[
+	{
+        "ConfigFile": "config/openttd.cfg", 
+        "Subsections": [
+            {
+                "Heading": "network",
+                "SettingMappings": {
+                    "pause_on_join": "pause_on_join",
+                    "server_port": "$ApplicationPort1",
+					"server_admin_port": "$ApplicationPort2",
+					"server_admin_chat": "server_admin_chat",
+					"server_game_type": "server_game_type",
+					"autoclean_companies": "autoclean_companies",
+                    "max_companies": "max_companies",
+                    "max_clients": "max_clients",
+                    "restart_game_year": "restart_game_year",
+                    "min_active_clients": "min_active_clients",
+                    "use_relay_service": "use_relay_service"
+                }
+            }
+
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "DisplayName": "64 Bit?",
+        "Category": "Server Settings",
+        "Description": "Download the 64 bit version",
+        "Keywords": "64 bit",
+        "FieldName": "64bit",
+        "InputType": "checkbox",
+        "IsFlagArgument": false,
+        "ParamFieldName": "64bit",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "True",
+        "EnumValues": {
+            "True": "True",
+            "False": "False"
+        }
+    }
+]

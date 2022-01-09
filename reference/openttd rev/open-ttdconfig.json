@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "Run Dedicated Server",
+        "Category": "",
+        "Description": "To run the dedicated server, run this",
+        "Keywords": "",
+        "FieldName": "openttd -D",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "openttd -D",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
